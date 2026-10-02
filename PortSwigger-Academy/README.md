@@ -19,7 +19,7 @@ My notes, lab walkthroughs, and learning progress from PortSwigger Web Security 
 - [x] [Business Logic Vulnerabilities](https://github.com/mohammadokour-x99/PortSwigger-Academy-Business-Logic)
 - [x] [XXE](https://github.com/mohammadokour-x99/PortSwigger-Academy-XXE-Injection)
 - [x] [WebSockets](https://github.com/mohammadokour-x99/PortSwigger-Academy-WEBSOCKET)
-- [x] Server-Side Template Injection (SSTI)
+- [x] [Server-Side Template Injection (SSTI)](./Server-Side-Template-Injection)
 
 ### In Progress
 
