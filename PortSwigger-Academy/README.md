@@ -30,3 +30,12 @@ My notes, lab walkthroughs, and learning progress from PortSwigger Web Security 
 - [ ] OAuth
 - [ ] API Testing
 - [ ] GraphQL
+
+
+## About
+
+This repository serves as an index for my PortSwigger Web Security Academy journey.
+
+Each topic contains my notes, lab walkthroughs, techniques, and what I learned while studying the vulnerability.
+
+More topics will be added as I progress.
