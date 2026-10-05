@@ -15,7 +15,7 @@ after bas64 url decoding  the payload :
 ![](images/Pasted%20image%2020261003033054.png)
 
 ### JWT signature
-The result of hashing the header and payload/encrypt the resulting hash. this process involves a secret signing key.
+The signature is created from the header and payload using a signing algorithm and a secret/private key.
 
 - As the signature is directly derived from the rest of the token, changing a single byte of the header or payload results in a mismatched signature.
 
@@ -495,7 +495,7 @@ send /admin request to repeater then study the decoded JWT payload part
 
 
 ![](images/Pasted%20image%2020261004110935.png)
-in JSON Web Token Tab, notice that algorithm used was HS256 (Symmetric Encryption- single key)
+in JSON Web Token Tab, notice that algorithm used was HS256 (Symmetric Signing - single key)
 ![](images/Pasted%20image%2020261004110908.png)
 change sub to administrator
 
