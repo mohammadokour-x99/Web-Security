@@ -20,13 +20,12 @@ My notes, lab walkthroughs, and learning progress from PortSwigger Web Security 
 - [x] [XXE](https://github.com/mohammadokour-x99/PortSwigger-Academy-XXE-Injection)
 - [x] [WebSockets](https://github.com/mohammadokour-x99/PortSwigger-Academy-WEBSOCKET)
 - [x] [Server-Side Template Injection (SSTI)](./Server-Side-Template-Injection)
-
+- [x] [JSON Web Token ATTACKS (JWT)](./JSON%20web%20tokens%28JWTs%29)
 ### In Progress
 
 
 ### Upcoming
 
-- [ ] JWT
 - [ ] OAuth
 - [ ] API Testing
 - [ ] GraphQL
