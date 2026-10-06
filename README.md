@@ -26,6 +26,7 @@ My main hands-on web security learning path.
 - Business Logic Vulnerabilities
 - XXE
 - Server-Side Template Injection (SSTI)
+- JSON Web Token (JWT)
 
 ---
 
